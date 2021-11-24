@@ -14,7 +14,7 @@
 	<div class="flex mb-20">
 
 		<div class="w-2/3 mr-20">
-			<h1 class="mt-0 mb-16 text-5xl font-medium text-indigo-600"><?php the_title(); ?></h1>
+			<h1 class="mt-0 mb-16 text-5xl font-medium"><?php the_title(); ?></h1>
 			<?php
 			the_content();
 
